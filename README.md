@@ -1,1 +1,1 @@
-intodução sobre os comandos do git.
+intodução sobre os comandos do git e github.
